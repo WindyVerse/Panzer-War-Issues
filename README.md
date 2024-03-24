@@ -7,14 +7,14 @@ When submitting an issue, please include the following information in your issue
 
 # Guideline for Issue 提交问题标题内容规范
 
-**1. Platform Used (Android, iOS, or Windows)
+1. Platform Used (Android, iOS, or Windows)
 2. Specific Version Number (For Android and iOS, provide the specific version number of the software; Steam users do not need to provide a version number.)
-3. Specific Issue**
+3. Specific Issue
 
 需提供包括：
-**1. 使用的平台 （安卓，苹果，还是 Windows）
+1. 使用的平台 （安卓，苹果，还是 Windows）
 2. 具体的版本号 （安卓，苹果查看软件的具体版本号， Steam 确保无需提供版本号）
-3. 具体的问题**
+3. 具体的问题
 
 
 
